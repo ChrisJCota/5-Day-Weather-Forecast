@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+}
+
+.btn {
+    background-color: rgb(107, 192, 244);
+    color: whitesmoke;
+}
+
+header {
+    margin-bottom: 5px;
+    background-color: skyblue;
+}
+
+label {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.icons {
+    border: solid skyblue 1px;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+
+span {
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
+}
