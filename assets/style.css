@@ -29,3 +29,12 @@ span {
     font-weight: bolder;
     color: red;
 }
+
+li {
+    list-style: none;
+    font-size: large;
+    font-weight: bold;
+    color: red;
+    background-color: skyblue;
+    width: 150px;
+}
